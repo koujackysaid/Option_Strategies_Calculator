@@ -19,7 +19,7 @@ Bull Call ladder Spread, Bear Put Ladder Spread
 
 Straddle (which is also can be used to calculate Strangle, Strip/Strap Straddle/Strangle by changing the input)
 
-## Result will be look like:
+## Result will be like:
 <img width="456" alt="Screenshot 2022-05-25 at 7 48 08 PM" src="https://user-images.githubusercontent.com/81698568/170255360-4a569d31-1f9d-4280-a241-28c9a27cbd82.png">
 
 ## To test multiple expected spot price(or any input), a simple for function can help (Also welcome suggestion on this part too!)
